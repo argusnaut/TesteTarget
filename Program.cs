@@ -8,5 +8,6 @@ class Program
     {
         ValorSoma.RetornoSoma();
         Fibonacci.RetornoFibonacci();
+        Faturamento.RetornoFaturamento();
     }
 }
